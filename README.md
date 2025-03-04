@@ -1,8 +1,7 @@
 👋 Hi, I’m Ankit Kumar
  
  About Me
-- I am a passionate Software Developer with a strong interest in problem-solving and system design. Currently,
-   I am honing my skills at Masai, where I specialize in Full-Stack Development, Data Structures & Algorithms (DSA), and Database Management.
+-I am a passionate Software Developer with a strong interest in problem-solving and system design. I am currently learning at Masai School, where I am gaining hands-on experience in Full-Stack Development, Data Structures & Algorithms (DSA), and Database Management. The program is designed to be practical and industry-focused, helping me build real-world projects, improve my coding skills, and understand how to design efficient and scalable systems. Through constant practice and problem-solving, I am preparing myself for a career in software development.
    
  Skills & Technologies
 - Languages: JavaScript, Python, SQL
