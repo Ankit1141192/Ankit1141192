@@ -70,33 +70,6 @@
 
 ---
 
-## 🐍 Contribution Graph Snake Animation
+### 🐍 Watch my contribution graph get eaten by the snake 🐍
 
-```yaml
-# .github/workflows/snake.yml
-
-name: 🐍 Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # every day at midnight
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-      - name: Push generated snake to the output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+![snake gif](https://github.com/Ankit1141192/Ankit1141192/blob/output/ocean.gif)
