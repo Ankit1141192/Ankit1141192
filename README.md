@@ -5,6 +5,7 @@
 - I am a passionate Software Developer with a strong interest in problem-solving and system design. I am currently learning at Masai School, where I am gaining hands-on experience in Full-Stack Development, Data Structures & Algorithms (DSA), and Database Management. The program is designed to be practical and industry-focused, helping me build real-world projects, improve my coding skills, and understand how to design efficient and scalable systems. Through constant practice and problem-solving, I am preparing myself for a career in software development.
    
  Skills & Technologies
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,SQL,React,MongoDB,React Native)](https://skillicons.dev)
 - Languages: JavaScript, Python, SQL
 - Frontend: HTML, CSS, React, DOM Manipulation
 - Backend: Node.js, Express.js, MongoDB
