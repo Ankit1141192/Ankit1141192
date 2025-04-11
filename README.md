@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Shopnetic](https://github.com/Ankit1141192/ReactNativeProject/tree/main/Shopnetic)
 
-- 🌱 I’m currently learning **Full-Stack Development at Masai School**
+- 🌱 I’m currently learning **Software Development at Masai School**
 
 - 📫 How to reach me: **ankit2914978@gmail.com**
 
@@ -49,15 +49,15 @@
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
+<!--   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
+  </a> -->
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
   </a>
-  <a href="https://www.python.org" target="_blank">
+<!--   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
+  </a> -->
 </p>
 
 ---
