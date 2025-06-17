@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">🚀 A Passionate Full-Stack Developer | React Native Enthusiast</h3>
+<h3 align="center">A Passionate Full-Stack Developer | React Native Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Kumar;React+Native+Developer+%F0%9F%93%B1;Full-Stack+Learner+%F0%9F%A7%A0;DSA+Problem+Solver+%F0%9F%92%AB;Welcome+to+my+GitHub!" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ankit+Kumar;React+Native+Developer+📱;Full-Stack+Learner+🧠;DSA+Problem+Solver+💡;Software+Developer+⚡;Welcome+to+my+GitHub!" alt="Typing intro" />
 </p>
+
 
 <p align="right">
   <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
