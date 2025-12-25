@@ -23,7 +23,7 @@
 - 💡 Exploring: DSA, System Design, Firebase Auth  
 - 🌐 Portfolio: [Visit My Portfolio](https://ankitkumar1141-portfolio.vercel.app/)  
 - 📫 Reach me at: **ankit2914978@gmail.com**  
-- 📄 [My Resume](https://drive.google.com/file/d/15FxHM49uV1ZWaNXsYPquw_gtERdy_T9c/view)
+- 📄 [My Resume](https://drive.google.com/drive/folders/15mZ8sRNAtIHNwihfEqPkDBdwRJM_knrr)
 
 ---
 
